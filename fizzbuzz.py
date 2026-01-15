@@ -1,3 +1,3 @@
-# feat: create fizzbuzz.py
+# feat: Create fizzbuzz.py
 
 file
