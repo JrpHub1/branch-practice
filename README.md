@@ -1,4 +1,4 @@
-# FIZZBUZZ on update-RM
+# Issue on update-RM
 
 ## How to start
 
