@@ -1,9 +1,6 @@
 # feat: Create fizzbuzz.py
 
 for i in range(16, 30+1):
-<<<<<<< HEAD
-    if i % 3 == 0:
-=======
     if i % 15 == 0:
         print('fizzbuzz')
     elif i % 3 == 0:
